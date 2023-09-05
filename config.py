@@ -1,6 +1,6 @@
 import os
 
-OWNER_ID = [5690711835, 6312693124]
+OWNER_ID = [1238234357]
 HANDLER = ["~", ".","!","?","@","$"]
 PyroX = "https://te.legra.ph/file/6a839cecad51014a32254.mp4"
 GROUP_ID = os.getenv("GROUP_ID", "-1001964645198")
