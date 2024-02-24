@@ -1,8 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+To+VISHAL-1755+REPO!;CREATED+BY+DARK+NEMESIS!;A+USERBOT+SONG+AND+VIDEO+PLAYING+BOT!;POWERED+BY+TEAM-X-NETWORK)</p> 
-
-
-
-
 # PyroX
 
 The pyrogram based Userbot Powered by Team-X
